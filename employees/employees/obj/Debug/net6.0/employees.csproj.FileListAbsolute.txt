@@ -1,0 +1,15 @@
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\bin\Debug\net6.0\employees.exe
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\bin\Debug\net6.0\employees.deps.json
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\bin\Debug\net6.0\employees.runtimeconfig.json
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\bin\Debug\net6.0\employees.dll
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\bin\Debug\net6.0\employees.pdb
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\obj\Debug\net6.0\employees.csproj.AssemblyReference.cache
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\obj\Debug\net6.0\employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\obj\Debug\net6.0\employees.AssemblyInfoInputs.cache
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\obj\Debug\net6.0\employees.AssemblyInfo.cs
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\obj\Debug\net6.0\employees.csproj.CoreCompileInputs.cache
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\obj\Debug\net6.0\employees.dll
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\obj\Debug\net6.0\refint\employees.dll
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\obj\Debug\net6.0\employees.pdb
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\obj\Debug\net6.0\employees.genruntimeconfig.cache
+C:\Users\anderlanys\Desktop\NelioAlves\employees\employees\obj\Debug\net6.0\ref\employees.dll
