@@ -15,3 +15,7 @@ Program to read height and width values of a rectangle. Calculates the value of 
 [Project #4](https://github.com/lanyarag/C-sharpProjects/tree/main/employee2):
 
 Program that reads employee data (name, gross salary and taxes). Calculates increases, net salary and prints the data.
+
+[Project #5](https://github.com/lanyarag/C-sharpProjects/tree/main/Student):
+
+Program that reads a student's name and grades and checks if they pass or fail.
