@@ -1,0 +1,15 @@
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\bin\Debug\net6.0\NameAge.exe
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\bin\Debug\net6.0\NameAge.deps.json
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\bin\Debug\net6.0\NameAge.runtimeconfig.json
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\bin\Debug\net6.0\NameAge.dll
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\bin\Debug\net6.0\NameAge.pdb
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\obj\Debug\net6.0\NameAge.csproj.AssemblyReference.cache
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\obj\Debug\net6.0\NameAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\obj\Debug\net6.0\NameAge.AssemblyInfoInputs.cache
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\obj\Debug\net6.0\NameAge.AssemblyInfo.cs
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\obj\Debug\net6.0\NameAge.csproj.CoreCompileInputs.cache
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\obj\Debug\net6.0\NameAge.dll
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\obj\Debug\net6.0\refint\NameAge.dll
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\obj\Debug\net6.0\NameAge.pdb
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\obj\Debug\net6.0\NameAge.genruntimeconfig.cache
+C:\Users\anderlanys\Desktop\NelioAlves\NameAge\NameAge\obj\Debug\net6.0\ref\NameAge.dll
