@@ -1,0 +1,15 @@
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\bin\Debug\net6.0\Employee2.exe
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\bin\Debug\net6.0\Employee2.deps.json
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\bin\Debug\net6.0\Employee2.runtimeconfig.json
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\bin\Debug\net6.0\Employee2.dll
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\bin\Debug\net6.0\Employee2.pdb
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\obj\Debug\net6.0\Employee2.csproj.AssemblyReference.cache
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\obj\Debug\net6.0\Employee2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\obj\Debug\net6.0\Employee2.AssemblyInfoInputs.cache
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\obj\Debug\net6.0\Employee2.AssemblyInfo.cs
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\obj\Debug\net6.0\Employee2.csproj.CoreCompileInputs.cache
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\obj\Debug\net6.0\Employee2.dll
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\obj\Debug\net6.0\refint\Employee2.dll
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\obj\Debug\net6.0\Employee2.pdb
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\obj\Debug\net6.0\Employee2.genruntimeconfig.cache
+C:\Users\anderlanys\Desktop\NelioAlves\rectangle\Employee2\obj\Debug\net6.0\ref\Employee2.dll
