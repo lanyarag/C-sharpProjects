@@ -2,7 +2,7 @@
 
 [Project #1](https://github.com/lanyarag/C-sharpProjects/tree/main/NameAge):
 
-Program to read the data of two people, then show the name of the oldest person
+Program to read the data of two people, then show the name of the oldest person.
 
 [Project #2](https://github.com/lanyarag/C-sharpProjects/tree/main/employees/employees):
 
