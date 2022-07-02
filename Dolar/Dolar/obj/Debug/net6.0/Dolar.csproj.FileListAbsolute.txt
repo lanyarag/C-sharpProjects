@@ -1,0 +1,15 @@
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\bin\Debug\net6.0\Dolar.exe
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\bin\Debug\net6.0\Dolar.deps.json
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\bin\Debug\net6.0\Dolar.runtimeconfig.json
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\bin\Debug\net6.0\Dolar.dll
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\bin\Debug\net6.0\Dolar.pdb
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\obj\Debug\net6.0\Dolar.csproj.AssemblyReference.cache
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\obj\Debug\net6.0\Dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\obj\Debug\net6.0\Dolar.AssemblyInfoInputs.cache
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\obj\Debug\net6.0\Dolar.AssemblyInfo.cs
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\obj\Debug\net6.0\Dolar.csproj.CoreCompileInputs.cache
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\obj\Debug\net6.0\Dolar.dll
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\obj\Debug\net6.0\refint\Dolar.dll
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\obj\Debug\net6.0\Dolar.pdb
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\obj\Debug\net6.0\Dolar.genruntimeconfig.cache
+C:\Users\anderlanys\Desktop\NelioAlves\Dolar\Dolar\obj\Debug\net6.0\ref\Dolar.dll
