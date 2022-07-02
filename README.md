@@ -19,3 +19,7 @@ Program that reads employee data (name, gross salary and taxes). Calculates incr
 [Project #5](https://github.com/lanyarag/C-sharpProjects/tree/main/Student):
 
 Program that reads a student's name and grades and checks if they pass or fail.
+
+[Project #6](https://github.com/lanyarag/C-sharpProjects/tree/main/Dolar):
+
+Program that receives the quotation of the dollar and the value of a purchase. Converts to value in reais considering IOF.
